@@ -368,8 +368,16 @@ img{
     width: 70%;
 }
 
-.skills__js{
+.skills__cpp{
     width: 60%;
+}
+
+.skills__django{
+    width: 60%;
+}
+
+.skills__js{
+    width: 50%;
 }
 
 .skills__react{
@@ -381,11 +389,11 @@ img{
 }
 
 .skills__node{
-    width: 60%;
+    width: 30%;
 }
 
 .skills__firebase{
-    width: 60%;
+    width: 40%;
 }
 
 
